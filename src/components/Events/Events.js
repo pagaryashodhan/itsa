@@ -2,7 +2,7 @@ import React from "react";
 // import "./styles.css";
 
 import img from "../Events/img.jpg";
-import img2 from "../Events/img2.jpg";
+import img2 from "./img2.jpg";
 function Events() {
   return (
     <>
@@ -38,7 +38,7 @@ function Events() {
                   <div className="carousel-item active">
                     <img
                       className="d-block w-100"
-                      src="img.jpg"
+                      src={img}
                       alt="First slide"
                     />
                     <div className="carousel-caption d-none d-md-block">

@@ -1,6 +1,5 @@
 
 body{
-    
     background: rgb(255,251,226);
     background: linear-gradient(135deg, rgba(255,251,226,0.2) 0%, rgba(255,252,235,0.41) 32%, rgba(166,255,224,0.31) 16%, rgba(255,255,255,1) 100%);
 }
@@ -14,7 +13,6 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     box-shadow: 0 6px 10px rgba(0, 0, 0, .23);
     cursor: pointer;
-    /* user-select: none; */
     padding: 10px;
     margin: 20px 10px;
 }
@@ -79,10 +77,6 @@ h2{
     color: #00234e;
     font-weight: 700;
 }
-/* .card-2, .card-title{
-    color: white;
-} */
-
 
 
 
