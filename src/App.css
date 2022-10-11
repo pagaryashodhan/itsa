@@ -69,21 +69,6 @@ padding-bottom: 0.3rem;
   font-weight: 600;
 }
 
-.bi{
-  color:grey;
-  
-  font-size: 1.6rem;
-}
-.bi-twitter:hover{
-  color: rgb(29 ,161 ,242);
-}
-.bi-linkedin:hover{
-  color: rgb(10, 102, 194);
-}
-.bi-globe:hover{
-color:#61dafb
-}
-
 .member {
   width: 18rem;
   box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.265);
@@ -110,8 +95,3 @@ padding-bottom: 0.3rem;
   font-weight: 600;
 }
 
-.teams-container{
-/* color: grey; */
-
-height: 30rem;
-}

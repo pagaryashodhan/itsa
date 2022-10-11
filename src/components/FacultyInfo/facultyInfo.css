@@ -1,0 +1,16 @@
+#button-linkedin, #button-twitter, #button-website{
+  color:grey;
+  
+  font-size: 1.6rem;
+}
+#button-linkedin:hover{
+  color: rgb(10, 102, 194);
+   
+  }
+  #button-twitter:hover{
+    color: rgb(29 ,161 ,242);
+  }
+  #button-website:hover{
+  color:#61dafb
+  }
+  

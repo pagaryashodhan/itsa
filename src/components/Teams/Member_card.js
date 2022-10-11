@@ -1,11 +1,11 @@
 import React from "react";
-import './Team.css'
+import "./Team.css";
 const Card = ({ name, position, imageUrl, linkedInUrl }) => {
   return (
     <div className="container" data-aos="fade-right">
       <div className="row">
         <div className="col-12 col-sm-6 col-md-4 col-lg-3">
-          <div className="our-team" style={{ width: "18rem" }}>
+          <div className="our-team" id="our-team" style={{ width: "18rem" }}>
             <div className="picture">
               <img className="img-fluid" src={imageUrl} alt="Member Img" />
             </div>
@@ -20,7 +20,11 @@ const Card = ({ name, position, imageUrl, linkedInUrl }) => {
                 window.open(linkedInUrl, "_blank", "noopener,noreferrer")
               }
             >
-              <i className="bi bi-linkedin bi-2x" aria-hidden="true"></i>
+              <i
+                className="bi bi-linkedin bi-2x"
+                id="button"
+                aria-hidden="true"
+              ></i>
             </button>
           </div>
         </div>
