@@ -1,0 +1,94 @@
+  body {
+    font-family: tahoma;
+    height: 100vh;
+  }
+
+  .our-team {
+    padding: 1.875rem 0 0.625rem;
+    margin-bottom: 1.875rem;
+    background-color: #f7f5ec;
+    text-align: center;
+    overflow: hidden;
+    position: relative;
+    border-radius: 0.625rem;
+    cursor: pointer;
+    box-shadow: 0.375rem 0.375rem 0.625rem rgba(0, 0, 0, 0.23);
+  }
+
+  .our-team .picture {
+    display: inline-block;
+    border-radius: 100%;
+    height: 8.125rem;
+    width: 8.125rem;
+    margin-bottom: 3.125rem;
+    z-index: 1;
+    position: relative;
+  }
+
+  .our-team .picture::before {
+    content: "";
+    width: 100%;
+    height: 0;
+    border-radius: 100%;
+    background-color: #1369ce;
+    position: absolute;
+    bottom: 135%;
+    right: 0;
+    left: 0;
+    opacity: 0.9;
+    transform: scale(3);
+    transition: all 0.3s linear 0s;
+  }
+
+  .our-team:hover .picture::before {
+    height: 100%;
+  }
+
+  .our-team .picture::after {
+    content: "";
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+    background-color: #1369ce;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1;
+  }
+
+  .our-team .picture img {
+    width: 100%;
+    height: 100%;
+    border-radius: 100%;
+    transform: scale(1);
+    transition: all 0.9s ease 0s;
+  }
+
+  .our-team:hover .picture img {
+    box-shadow: 0 0 0 0.875rem #f7f5ec;
+    transform: scale(0.7);
+  }
+
+  .our-team .title {
+    display: block;
+    font-size: 1.5rem;
+    padding-bottom: 0.625rem;
+    color: #4e5052;
+  }
+
+  .social {
+    top: 0.625rem;
+    display: flex;
+    justify-content: center;
+  }
+
+  .social .bi {
+    padding: 0 0.625rem;
+    font-size: 1.625rem;
+    bottom: 0;
+  }
+
+  .social .bi:hover {
+    color: orangered;
+    transition: .4s;
+  }

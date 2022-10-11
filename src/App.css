@@ -1,0 +1,117 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css");
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.navbar-nav >li >a{
+  color: rgb(0, 0, 0)
+}
+nav a.nav-link{
+  letter-spacing: 0.0375rem;
+  cursor: pointer;
+}
+.container > a{
+  color: white
+}
+
+
+.card {
+  width: 18rem;
+  border-radius: "1rem";
+  box-shadow: 2px 4px 5px rgba(0, 0, 0, 0.265);
+}
+
+.card> img{
+
+  padding: 1.3rem;
+  border-radius: 2rem; 
+
+}
+.card-title{
+  margin-top: -1rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: purple
+}
+
+.card-subtitle{
+padding-top: 0.3rem;
+padding-bottom: 0.3rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.bi{
+  color:grey;
+  
+  font-size: 1.6rem;
+}
+.bi-twitter:hover{
+  color: rgb(29 ,161 ,242);
+}
+.bi-linkedin:hover{
+  color: rgb(10, 102, 194);
+}
+.bi-globe:hover{
+color:#61dafb
+}
+
+.member {
+  width: 18rem;
+  box-shadow: 0px 0px 0px rgba(0, 0, 0, 0.265);
+}
+
+.member> img{
+  margin: auto;
+  height: 13rem;
+  width: 13rem;
+  border-radius: 20rem; 
+}
+.member-title{
+  margin-top: 0.5rem;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: purple
+}
+
+.member-subtitle{
+
+padding-top: 0.3rem;
+padding-bottom: 0.3rem;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.teams-container{
+/* color: grey; */
+
+height: 30rem;
+}

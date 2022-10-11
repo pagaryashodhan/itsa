@@ -1,0 +1,209 @@
+[{
+  "_id": {
+    "$oid": "6330bde0df85e51499947189"
+  },
+  "name": "Core",
+  "members": [
+    {
+      "$oid": "6330bde0df85e5149994718b"
+    },
+    {
+      "$oid": "6330bde0df85e5149994718e"
+    },
+    {
+      "$oid": "6330bde0df85e51499947191"
+    },
+    {
+      "$oid": "6330bde0df85e51499947194"
+    },
+    {
+      "$oid": "6330bde0df85e51499947197"
+    },
+    {
+      "$oid": "6330bde1df85e5149994719a"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6330bc35564fc94d2834b1b4"
+  },
+  "name": "Web Masters",
+  "members": [
+    {
+      "$oid": "6330bc35564fc94d2834b1b6"
+    },
+    {
+      "$oid": "6330bc35564fc94d2834b1b9"
+    },
+    {
+      "$oid": "6330bc35564fc94d2834b1bc"
+    },
+    {
+      "$oid": "6330bc35564fc94d2834b1bf"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6330be66a5858cc36ba454fa"
+  },
+  "name": "Video Editing",
+  "members": [
+    {
+      "$oid": "6330be66a5858cc36ba454fc"
+    },
+    {
+      "$oid": "6330be66a5858cc36ba454ff"
+    },
+    {
+      "$oid": "6330be66a5858cc36ba45502"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6330be8b10c15e2ff37d5e9f"
+  },
+  "name": "Sports",
+  "members": [
+    {
+      "$oid": "6330be8fa6f2200ba5c3adcd"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6330bf62e54a9d4bd1750253"
+  },
+  "name": "Social Media",
+  "members": [
+    {
+      "$oid": "6330bf62e54a9d4bd1750255"
+    },
+    {
+      "$oid": "6330bf62e54a9d4bd1750258"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6330bf8c270dd441b136d428"
+  },
+  "name": "NSS-ISR",
+  "members": [
+    {
+      "$oid": "6330bf8c270dd441b136d42a"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6330bfe658092e726eef09b9"
+  },
+  "name": "Newsletter",
+  "members": [
+    {
+      "$oid": "6330bfe758092e726eef09bb"
+    },
+    {
+      "$oid": "6330bfe758092e726eef09be"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6330c02185148cdc8a4b583a"
+  },
+  "name": "IICF",
+  "members": [
+    {
+      "$oid": "6330c02185148cdc8a4b583c"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6330c04039948006e1528488"
+  },
+  "name": "IEEE",
+  "members": [
+    {
+      "$oid": "6330c04039948006e152848a"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6330c28d43f0191f870d97a2"
+  },
+  "name": "Higher Studies",
+  "members": [
+    {
+      "$oid": "6330c28d43f0191f870d97a4"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6330c37739f860c6a1aafb32"
+  },
+  "name": "Event",
+  "members": [
+    {
+      "$oid": "6330c37739f860c6a1aafb34"
+    },
+    {
+      "$oid": "6330c37739f860c6a1aafb37"
+    },
+    {
+      "$oid": "6330c37739f860c6a1aafb3a"
+    },
+    {
+      "$oid": "6330c37739f860c6a1aafb3d"
+    },
+    {
+      "$oid": "6330c37739f860c6a1aafb40"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6330c3ceed4c3dfe8ac231fd"
+  },
+  "name": "Design",
+  "members": [
+    {
+      "$oid": "6330c3ceed4c3dfe8ac231ff"
+    },
+    {
+      "$oid": "6330c3ceed4c3dfe8ac23202"
+    },
+    {
+      "$oid": "6330c3ceed4c3dfe8ac23205"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6330c4364718b8082b7d250c"
+  },
+  "name": "CDPC",
+  "members": [
+    {
+      "$oid": "6330c4364718b8082b7d250e"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6330c45e2b238eb18ff26de7"
+  },
+  "name": "Art Circle",
+  "members": [
+    {
+      "$oid": "6330c45e2b238eb18ff26de9"
+    }
+  ],
+  "__v": 0
+}]

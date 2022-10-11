@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Dr. Sonali Patil",
+    "designation": "HOD IT",
+    "image_url": "https://raw.githubusercontent.com/YashJ007/itsa-images/main/sonali_patil.jpeg",
+    "description": "",
+    "linkedin": "https://www.linkedin.com/in/dr-sonali-patil-9413681b/",
+    "twitter": "https://www.twitter.com",
+    "website": "https://www.website.com"
+  },
+  {
+    "name": "Dr. Meera Thorat",
+    "designation": "Mentor",
+    "image_url": "https://raw.githubusercontent.com/YashJ007/itsa-images/main/meera_thorat.jpeg",
+    "description": "",
+    "linkedin": "https://www.linkedin.com/in/meera-thorat-201a3575/",
+    "twitter": "https://www.twitter.com",
+    "website": "https://www.website.com"
+  },
+  {
+    "name": "Mrs. Sapna",
+    "designation": "Superviser",
+    "image_url": "https://raw.githubusercontent.com/YashJ007/itsa-images/main/sapana.jpg",
+    "description": "",
+    "linkedin": "https://www.linkedin.com/in/Sonali",
+    "twitter": "https://www.twitter.com",
+    "website": ""
+  }
+]
